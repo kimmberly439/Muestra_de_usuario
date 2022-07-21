@@ -1,0 +1,9 @@
+#root{
+    width: 50rem;
+    height: 50rem;
+    border: 2px solid black;
+    border-radius: 2rem;
+
+    margin: auto;
+    padding: 10rem 10rem;
+}
